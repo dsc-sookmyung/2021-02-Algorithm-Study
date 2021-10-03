@@ -1,9 +1,12 @@
 # Week1
 
-A - [11931](https://www.acmicpc.net/problem/11931)수 정렬하기 4(S5)
-B - [10610](https://www.acmicpc.net/problem/10610)30(S5)
-C - [11582](https://www.acmicpc.net/problem/11582)치킨 TOP N(S4)
-D - [1148](https://www.acmicpc.net/problem/1448)삼각형 만들기(S3)
+A - [[11931](https://www.acmicpc.net/problem/11931)]수 정렬하기 4(S5)
+
+B - [[10610](https://www.acmicpc.net/problem/10610)]30(S5)
+
+C - [[11582](https://www.acmicpc.net/problem/11582)]치킨 TOP N(S4)
+
+D - [[1148](https://www.acmicpc.net/problem/1448)]삼각형 만들기(S3)
 
 ## 1. Big O
 
