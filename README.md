@@ -40,7 +40,7 @@
 3. 개인 폴더 안에 코드를 작성하되, 파일 명은 ```알파벳 번호-문제번호```로 생성(ex.```A-11931.cpp```)
 4. 마지막으로 master branch에 Pull Request 해주시면 됩니다. PR 명은 ```[이름]2021 GDSC algorithm study_1주차``` 형식
 5. 해당 주차의 담당자는 '사진이나 글로 정리한 알고리즘 개념 + [필수 문제 번호]문제 이름(티어)'를 리드미에 작성해주세요.(ex. ```[11931]수 정렬하기4(S5)```)  
-- **Pull Request하기 전에 ```git pull origin main```으로 main 브랜치에 있는 커밋 내용을 받아와 주세요.**
+<!-- - **Pull Request하기 전에 ```git pull origin main```으로 main 브랜치에 있는 커밋 내용을 받아와 주세요.** -->
 
 ### GDSC Sookmyung 팀블로그 작성 양식
 - **문제별로 모두 작성해주세요!**  
