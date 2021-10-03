@@ -13,9 +13,7 @@ bool compare(int i, int j)
 
 bool isTriangle(int a, int b, int c)
 {
-    bool result = false;
     return a < b + c;
-    return result;
 }
 
 int main()
