@@ -1,23 +1,12 @@
-# GDSC 3주차 알고리즘 스터디        
-   
-#### 필수 문제   
-
-A - [[14889](https://www.acmicpc.net/problem/14889)] 스타트와 링크
-
-B - [[1182](https://www.acmicpc.net/problem/1182)] 부분수열의 합
-
-C - [[14888](https://www.acmicpc.net/problem/14888)] 연산자 끼워넣기
-
-D - [[9663](https://www.acmicpc.net/problem/9663)] N-Queen
-
+# GDSC 3주차 알고리즘 스터디    
 ---   
 
 ## 완전 탐색(Brute-Force)
 
-완전히 탐색, 즉 **가능한 경우의 수를 모두 조사**하는 방법이다.  
+완전히 탐색, 즉 **가능한 경우의 수를 모두 조사**하는 방법이다.   
 
 
-## 완전 탐색의 장단점
+### 완전 탐색의 장단점
 
 **장점**: 답을 무조건 찾을 수 있다.
 
@@ -50,3 +39,25 @@ D - [[9663](https://www.acmicpc.net/problem/9663)] N-Queen
 이를 **가지치기**라고도 하는데, 불필요한 부분을 쳐내고 최대한 올바른 쪽으로 간다는 의미이기도 하다.
 
 이렇게 가지치기를 얼마나 잘 하느냐에 따라 **효율성이 결정**되게 된다.
+
+
+---   
+   
+### 필수 문제   
+
+A - [[14889](https://www.acmicpc.net/problem/14889)] 스타트와 링크
+
+B - [[1182](https://www.acmicpc.net/problem/1182)] 부분수열의 합
+
+C - [[14888](https://www.acmicpc.net/problem/14888)] 연산자 끼워넣기
+
+D - [[9663](https://www.acmicpc.net/problem/9663)] N-Queen   
+
+### 선택 문제
+
+A - [[1018](https://www.acmicpc.net/problem/1018)] 체스판 다시 칠하기
+
+B - [[1120](https://www.acmicpc.net/problem/1120)] 문자열
+
+C - [[20208](https://www.acmicpc.net/problem/20208)] 진우의 민트초코우유
+
