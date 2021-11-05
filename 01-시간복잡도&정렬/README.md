@@ -1,4 +1,13 @@
-# week1
+# Week1
+
+A - [[11931](https://www.acmicpc.net/problem/11931)]수 정렬하기 4(S5)
+
+B - [[10610](https://www.acmicpc.net/problem/10610)]30(S5)
+
+C - [[11582](https://www.acmicpc.net/problem/11582)]치킨 TOP N(S4)
+
+D - [[1148](https://www.acmicpc.net/problem/1448)]삼각형 만들기(S3)
+
 
 ## 1. Big O
 
@@ -18,7 +27,7 @@ as the array grows, number of steps increase : O(n) → if input increases, amou
 
 **Logarithmic Time** : binary search. O(logN) → 데이터 2배 되어도 한번만 더 나누면 되니까 step이 1만 증가 
 
-![Untitled](week1%20e95aa15431554bfeaf0a9c9d9459b03e/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/63537847/135753705-3609aebe-839f-403d-b1f3-0113bcba3913.png)
 
 ## 2. Sorting Algorithms
 
@@ -85,7 +94,7 @@ $n^2 = 10 * 10 = 100$
 2. 2의 배수만큼 합치기 → 2개씩 정렬해서 합치기 
 3. 합치는 순간에 정렬 
     
-    ![Untitled](week1%20e95aa15431554bfeaf0a9c9d9459b03e/Untitled%201.png)
+    ![Untitled](https://user-images.githubusercontent.com/63537847/135753710-a1c8a7f2-5abb-48e9-bcbb-c5633685e866.png)
     
     1. i, j 중에 더 작은 값을 k에 넣고 i or j 하나 뒤로 이동 
     2. N번 비교함 
