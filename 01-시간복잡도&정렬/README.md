@@ -8,7 +8,6 @@ C - [[11582](https://www.acmicpc.net/problem/11582)]치킨 TOP N(S4)
 
 D - [[1148](https://www.acmicpc.net/problem/1448)]삼각형 만들기(S3)
 
-
 ## 1. Big O
 
 [Big O Explained in 10 min](https://youtu.be/BEVnxbxBqi8) 
@@ -94,7 +93,8 @@ $n^2 = 10 * 10 = 100$
 2. 2의 배수만큼 합치기 → 2개씩 정렬해서 합치기 
 3. 합치는 순간에 정렬 
     
-    ![Untitled](https://user-images.githubusercontent.com/63537847/135753710-a1c8a7f2-5abb-48e9-bcbb-c5633685e866.png)
+    ![Untitled 1](https://user-images.githubusercontent.com/63537847/135753710-a1c8a7f2-5abb-48e9-bcbb-c5633685e866.png)
+
     
     1. i, j 중에 더 작은 값을 k에 넣고 i or j 하나 뒤로 이동 
     2. N번 비교함 
