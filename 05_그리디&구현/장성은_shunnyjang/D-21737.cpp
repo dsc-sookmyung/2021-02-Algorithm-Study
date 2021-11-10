@@ -4,17 +4,17 @@
 
 using namespace std;
 
-int n, count=0, answer;
-string expression, num, num2;
+int n, count=0;
+string expression, num, answer;
 char opt = ' ';
 bool output = false;
 
-int calculation(int a, int b, char c) {
-    if (c == 'S') return a-b;
-    if (c == 'M') return a*b;
-    if (c == 'P') return a+b;
-    if (a > 0) return a/b;
-    return ((a*-1) / b)*-1;
+string calculation(int a, int b, char c) {
+    if (c == 'S') return to_string(a-b);
+    if (c == 'M') return to_string(a*b);
+    if (c == 'P') return to_string(a+b);
+    if (a > 0) return to_string(a/b);
+    return to_string(((a*-1) / b)*-1);
 }
 
 int main(int argc, const char** argv) {
@@ -25,16 +25,16 @@ int main(int argc, const char** argv) {
             if (opt != ' ')
                 num.push_back(expression[i]);
             else
-                num2.push_back(expression[i]);
+                answer.push_back(expression[i]);
         }
         else {
             if (opt != ' ' && opt != 'C') {
-                answer = calculation(stoi(num2), stoi(num), opt);
+                answer = calculation(stoi(answer), stoi(num), opt);
                 num = ' ';
             }
             if (expression[i] == 'C') {
                 output=true;
-                cout << answer << " ";
+                cout << stoi(answer) << " ";
             }
             opt = expression[i];
         }
