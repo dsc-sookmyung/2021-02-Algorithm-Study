@@ -22,7 +22,7 @@
 | <ul><li>- [x] </li></ul> | 6주차 | 이분 탐색 |
 | <ul><li>- [x] </li></ul> | 7주차 | 분할 정복 |
 | <ul><li>- [x] </li></ul> | 8주차 | Graph & Tree |
-| <ul><li>- [ ] </li></ul> | 9주차 | DFS & BFS |
+| <ul><li>- [x] </li></ul> | 9주차 | DFS & BFS |
 | <ul><li>- [ ] </li></ul> | 10주차 | 우선순위 큐 & 다익스트라 |
 <br/>
 
